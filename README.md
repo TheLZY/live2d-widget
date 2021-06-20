@@ -98,6 +98,7 @@ https://example.com/path/to/live2d-widget/
 - `waifu-tips.js` 包含了按钮和对话框的逻辑；
 - `waifu-tips.json` 中定义了触发条件（`selector`，CSS 选择器）和触发时显示的文字（`text`）；
 - `waifu.css` 是看板娘的样式表。
+- `autoload.js` 是加载方法，可以在此修改后端api
 
 源文件是对 Hexo 的 [NexT 主题](http://github.com/next-theme/hexo-theme-next)有效的，为了适用于你自己的网页，可能需要自行修改，或增加新内容。  
 **警告：作者不对包括但不限于 `waifu-tips.js` 和 `waifu-tips.json` 文件中的内容负责，请自行确保它们是合适的。**
