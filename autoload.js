@@ -1,7 +1,7 @@
 // 注意：live2d_path 参数应使用绝对路径
 //测试时使用本地路径，方便调试
 //const live2d_path = "C://Code//live2D//live2d-widget/"
-const live2d_path = "https://cdn.jsdelivr.net/gh/TheLZY/live2d-widget@latest/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/TheLZY/live2d-widget@v1.0.2/";
 //const live2d_path = "https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/";
 //const live2d_path = "/live2d-widget/";
 
