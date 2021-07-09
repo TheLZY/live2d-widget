@@ -1,7 +1,7 @@
 // 注意：live2d_path 参数应使用绝对路径
 //测试时使用本地路径，方便调试
-const live2d_path = "C://Files//Code//live2D//live2d-widget - test//live2d-widget/"
-//const live2d_path = "https://cdn.jsdelivr.net/gh/TheLZY/live2d_widget@master/";
+//const live2d_path = "C://Code//live2D//live2d-widget/"
+const live2d_path = "https://cdn.jsdelivr.net/gh/TheLZY/live2d-widget@latest/";
 //const live2d_path = "https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/";
 //const live2d_path = "/live2d-widget/";
 
@@ -38,7 +38,7 @@ if (screen.width >= 768) {
 			waifuPath: live2d_path + "waifu-tips.json",
 			//apiPath: "C:\Files\Code\live2D\live2d_api",
 			//apiPath: "http://localhost:8888/live2d-api-moc3/"
-			cdnPath: "https://cdn.jsdelivr.net/gh/TheLZY/live2d_api@1.0.9"
+			cdnPath: "https://cdn.jsdelivr.net/gh/TheLZY/live2d_api@latest"
 		});
 	});
 }
